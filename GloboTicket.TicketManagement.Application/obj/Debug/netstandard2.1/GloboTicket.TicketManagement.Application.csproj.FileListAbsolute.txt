@@ -1,0 +1,12 @@
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.deps.json
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.dll
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.pdb
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.dll
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.AssemblyInfo.cs
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.csproj.CopyComplete
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.dll
+C:\Users\Barry\source\repos\CleanArchitecture\GloboTicket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTicket.TicketManagement.Application.pdb
